@@ -1,0 +1,18 @@
+[
+    {
+        "model": "clientes.cliente",
+        "pk": 1,
+        "fields": {
+            "nome":"Elisa Gatinha",
+            "email":"elisa@tocomfome.com"
+        } 
+    },
+    {
+        "model": "clientes.cliente",
+        "pk": 2,
+        "fields": {
+            "nome":"Herbert Martins",
+            "email":"herbert@tocomfome.com"
+        } 
+    }
+]
